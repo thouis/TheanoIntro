@@ -1,3 +1,3 @@
 [submodule "DeepLearningTutorials"]
-	path = DeepLearningTutorials
+	path = FromComputefest/DeepLearningTutorials
 	url = https://github.com/lisa-lab/DeepLearningTutorials
